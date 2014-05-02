@@ -13,7 +13,7 @@ $user = array(
 $projects = array(
   'UI7Kit' => array(
     'description' => 'Backport flat-style UIKit from iOS7 to iOS5+',
-    'longdescription' => 'This project supports drop-in-replacement of legacy UIKit, with dynamic patching. You also can use UI7-prefix classes of UIKit.',
+    'longdescription' => 'This project supports drop-in-replacement of legacy UIKit with dynamic patching. You also can use UI7-prefix classes of UIKit.',
     'github' => 'youknowone/UI7Kit',
     'cocoapod' => True,
     'open' => array('type' => 'xcworkspace', 'file' => 'UI7Kit'),
